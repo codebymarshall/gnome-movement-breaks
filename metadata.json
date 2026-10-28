@@ -1,0 +1,9 @@
+{
+  "uuid": "movement-breaks@codebymarshall.github.io",
+  "name": "Movement Breaks",
+  "description": "Counts active computer time in the top bar and prompts a five-minute movement break after 30 or 50 active minutes. The countdown pauses after three minutes without input, while a break keeps counting.\n\nThese are behavior prompts, not medical advice.",
+  "shell-version": ["51"],
+  "url": "https://github.com/codebymarshall/gnome-movement-breaks",
+  "settings-schema": "org.gnome.shell.extensions.movement-breaks",
+  "version-name": "1.0.0"
+}
