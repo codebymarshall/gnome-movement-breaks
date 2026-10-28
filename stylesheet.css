@@ -1,0 +1,13 @@
+.movement-breaks-countdown {
+    font-feature-settings: "tnum";
+}
+
+.movement-breaks-note {
+    max-width: 20em;
+}
+
+.movement-breaks-active .system-status-icon,
+.movement-breaks-active .movement-breaks-countdown {
+    color: #ff7b63;
+    font-weight: bold;
+}
